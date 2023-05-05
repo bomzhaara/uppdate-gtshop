@@ -1,0 +1,9 @@
+directories:
+  output: E:\quazar-vue\GT-Shop\GTShop(new)\gtshop-frontend\dist\electron\Packaged
+  buildResources: E:\quazar-vue\GT-Shop\GTShop(new)\gtshop-frontend\src-electron
+  app: E:\quazar-vue\GT-Shop\GTShop(new)\gtshop-frontend\dist\electron\UnPackaged
+appId: com.electron.gtshop
+icon: E:\quazar-vue\GT-Shop\GTShop(new)\gtshop-frontend\src-electron\icons\icon
+productName: GTshop
+files: []
+electronVersion: 24.1.2
